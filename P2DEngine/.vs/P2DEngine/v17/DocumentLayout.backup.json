@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Desktop\\P2DEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|c:\\users\\jonat\\desktop\\p2dengine\\games\\scenegame\\agario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\scenegame\\agario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\gameobjects\\myplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:gameobjects\\myplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\myscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\myscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\gameobjects\\myenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:gameobjects\\myenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\gameobjects\\myphysicscircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:gameobjects\\myphysicscircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\scenegame\\pong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\scenegame\\pong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\scenegame\\arkanoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\scenegame\\arkanoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\scenegame\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\scenegame\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\mycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:mycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\polystation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\polystation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|C:\\Users\\jonat\\Desktop\\P2DEngine\\games\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B1307C-2C28-4A21-974A-96954E8E9F72}|P2DEngine.csproj|solutionrelative:games\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:36:14.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arkanoid.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Arkanoid.cs",
+              "RelativeDocumentMoniker": "Games\\SceneGame\\Arkanoid.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Arkanoid.cs",
+              "RelativeToolTip": "Games\\SceneGame\\Arkanoid.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwN8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:08:57.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pong.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Pong.cs",
+              "RelativeDocumentMoniker": "Games\\SceneGame\\Pong.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Pong.cs",
+              "RelativeToolTip": "Games\\SceneGame\\Pong.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:18:46.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agario.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Agario.cs",
+              "RelativeDocumentMoniker": "Games\\SceneGame\\Agario.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Agario.cs",
+              "RelativeToolTip": "Games\\SceneGame\\Agario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:02:19.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Menu.cs",
+              "RelativeDocumentMoniker": "Games\\SceneGame\\Menu.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\SceneGame\\Menu.cs",
+              "RelativeToolTip": "Games\\SceneGame\\Menu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:31:31.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myPlayer.cs",
+              "RelativeDocumentMoniker": "GameObjects\\myPlayer.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myPlayer.cs",
+              "RelativeToolTip": "GameObjects\\myPlayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:25:49.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myScene.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\myScene.cs",
+              "RelativeDocumentMoniker": "Games\\myScene.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\myScene.cs",
+              "RelativeToolTip": "Games\\myScene.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:40:38.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myEnemy.cs",
+              "RelativeDocumentMoniker": "GameObjects\\myEnemy.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myEnemy.cs",
+              "RelativeToolTip": "GameObjects\\myEnemy.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:36:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "myPhysicsCircle.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myPhysicsCircle.cs",
+              "RelativeDocumentMoniker": "GameObjects\\myPhysicsCircle.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\GameObjects\\myPhysicsCircle.cs",
+              "RelativeToolTip": "GameObjects\\myPhysicsCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:31:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "myCamera.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\myCamera.cs",
+              "RelativeDocumentMoniker": "myCamera.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\myCamera.cs",
+              "RelativeToolTip": "myCamera.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:40:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolyStation.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\PolyStation.cs",
+              "RelativeDocumentMoniker": "Games\\PolyStation.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\PolyStation.cs",
+              "RelativeToolTip": "Games\\PolyStation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:07:19.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "myGame.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\myGame.cs",
+              "RelativeDocumentMoniker": "Games\\myGame.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\P2DEngine\\Games\\myGame.cs",
+              "RelativeToolTip": "Games\\myGame.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:07:20.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
